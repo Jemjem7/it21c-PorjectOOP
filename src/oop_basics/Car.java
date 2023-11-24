@@ -17,10 +17,10 @@ public class Car {
         this.car_price = car_price;
 }     
     void CarMode(){
-        System.out.println(car_name +"is a race car");
+        System.out.println(car_name +" is a race car");
     }
     void CarPrice(){
-        System.out.println(car_price+"is grabi ka mahal!");
+        System.out.println(car_price+" is grabi ka mahal!");
     }
     
 }
