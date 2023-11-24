@@ -15,7 +15,7 @@ public class Main {
    Student student = new Student();
     student.setName("Benz jeram tinga");
      student.setSection("it21C");
-     student.setMotto("arts is my fasion");
+     student.setMotto("arts is my home");
     
     
     
